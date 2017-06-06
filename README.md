@@ -1,4 +1,4 @@
 postgres
 ========
 
-General postgres tools and utilities
+General postgres tools and utilities.
